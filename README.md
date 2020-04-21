@@ -1,4 +1,4 @@
-Advances in Financial Machine Learning Exercises
+Financial Machine Learning Exercises
 ==============================
 
 Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482109)
